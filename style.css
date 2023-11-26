@@ -1,0 +1,14 @@
+button {
+    background-color: aqua;
+    color: black;
+    margin: 3px;
+    height: 180px;
+    width: 80px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: aquamarine;
+    transition: .3s all ease-in-out;
+}
